@@ -1,0 +1,20 @@
+{
+    "name": "tuytoosh/php-google-web-search",
+    "description": "a package for search in google for php users",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hamid Haghdoost",
+            "email": "tuytoosh@yahoo.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+      "psr-4": {
+          "tuytoosh\\php-google-web-search\\": "/"
+      }
+  }  
+}
