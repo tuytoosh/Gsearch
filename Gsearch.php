@@ -1,5 +1,6 @@
-<?php
-namespace tuytoosh/php-google-web-search;
+<?php namespace tuytoosh/php-google-web-search;
+
+
         class Gsearch
         {
                 public static function Search($str)
