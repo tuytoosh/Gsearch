@@ -3,5 +3,5 @@ google web search using google API
 
 this is a simple composer package that in V1 searches one phrase in google and returns results in json format
 
-require this : `"tuytoosh/php-google-web-search" : "dev-master"` in `composer.json` file
+require this : `"tuytoosh/gsearch" : "dev-master"` in `composer.json` file
 
