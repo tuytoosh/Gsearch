@@ -1,4 +1,4 @@
-# laravel-google-web-search
+# php-google-web-search
 google web search using google API
 
 this is a simple composer package that in V1 searches one phrase in google and returns results in json format
