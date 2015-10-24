@@ -8,7 +8,7 @@ class config
   ];
   
   
-  public function get($opt)
+  public static function get($opt)
   {
     return $index[$opt];
   }
