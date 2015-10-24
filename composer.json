@@ -1,5 +1,5 @@
 {
-    "name": "tuytoosh/php-google-web-search",
+    "name": "tuytoosh/Gsearch",
     "description": "a package for search in google for php users",
     "license": "MIT",
     "authors": [
@@ -14,7 +14,7 @@
     },
     "autoload": {
       "psr-4": {
-          "tuytoosh\\php-google-web-search\\": "/"
+          "tuytoosh\\Gsearch\\": "/"
       }
   },
   "version": "1.0.0-dev"
